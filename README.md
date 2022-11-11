@@ -62,6 +62,7 @@ endmodule
 ## Timing Diagram:
 ![image](https://user-images.githubusercontent.com/94882905/201388992-ef367a45-1752-43af-a825-5afd931a5000.png)
 Truth Table:
+
 ![image](https://user-images.githubusercontent.com/94882905/201389140-6f9b7e71-32e7-437c-bd7a-65e52aea5fa9.png)
 
 Program 2:
@@ -71,6 +72,7 @@ RTL:
 Timing Diagram:
 ![image](https://user-images.githubusercontent.com/94882905/201389383-b6783e7c-0371-4ec3-95c5-c4c58798e33e.png)
 Truth Table:
+
 ![image](https://user-images.githubusercontent.com/94882905/201389470-316ea44d-a281-4e72-9904-50397148fb3b.png)
 
 ## Result:
